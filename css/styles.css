@@ -10,7 +10,7 @@ body {
 .header {
     width: 100%;
     padding: 20px 50px;
-    background-color: #ff5e00;
+    background-color: #00ff66;
     box-sizing: border-box;
     align-items: center;
 }
@@ -81,7 +81,7 @@ body {
 
  .cart {
     width: 35%;
-    background-color: aliceblue;
+    background-color: aquamarine;
     padding: 25px;
     height: 100%;
     right: -100%;
